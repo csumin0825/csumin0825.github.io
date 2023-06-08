@@ -1,0 +1,28 @@
+---
+layout: post
+title: 드디어 첫 글
+date: 2023-06-06 19:37:20 +0300
+description: 대충 설명글
+img: going-to.png # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [어쩌고, 저쩌고]
+---
+
+## 드디어 첫!! 글!!!
+드디어 첫 글을 썼습니다,,
+
+![힘들다 진짜]({{site.baseurl}}/assets/img/panda.png)
+
+꽤나 먼길을 돌아서 겨우 완성,,
+,,
+,,
+
+>제법 새로운 형식 
+신기하다
+
+* 하하
+* 호호
+
+절겁네요
+
+아이 즐거워
